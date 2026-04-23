@@ -2,6 +2,7 @@
 marp: true
 theme: cybertopia
 class: invert
+html: true
 
 footer: 'Guest Lecture, Dartmouth College, April 28th, 2026'
 paginate: true
@@ -37,7 +38,7 @@ April 28<sup>th</sup>, 2026
 - Vermont was hit even harder — record river flooding cut off entire towns
 
 <div style="text-align: center;">
-  <img src="dartmouth-figs/willowbrook-irene.jpg" style="width:70%;"/>
+  <img src="dartmouth-figs/willowbrook-irene.jpg" width="70%"/>
   <p style="font-size: 18px;">Willowbrook Mall, August 2011</p>
 </div>
 
@@ -138,7 +139,7 @@ The modern challenge: **so much data**. How do we make sense of it all?
 ---
 
 <div style="text-align: center;">
-  <img src="doppler_ani.gif" style="width:90%;"/>
+  <img src="doppler_ani.gif" width="90%"/>
   <p style="font-size: 14px;">Source: NOAA</p>
 </div>
 
@@ -157,7 +158,7 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 ---
 
 <div style="text-align: center;">
-  <img src="radar-elevation-angle.png" style="width:90%;"/>
+  <img src="radar-elevation-angle.png" width="90%"/>
   <p style="font-size: 14px;"><em>Source: NOAA</em></p>
 </div>
 
@@ -190,12 +191,12 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 ---
 
 <div style="text-align: center;">
-  <img src="satellite-paths.jpg" style="width:45%;"/>
+  <img src="satellite-paths.jpg" width="45%"/>
   <p style="font-size: 14px;"><em>Source: ThoughtCo</em></p>
 </div>
 
 <div style="text-align: center;">
-  <img src="geosynchronous-orbit.gif" style="width:30%;"/>
+  <img src="geosynchronous-orbit.gif" width="30%"/>
   <p style="font-size: 14px;"><em>Source: Wikimedia Commons</em></p>
 </div>
 
@@ -234,7 +235,7 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 - Warmer temps = lower clouds = blue/green
 
 <div style="text-align: center;">
-  <img src="ir-satellite.gif" style="width:40%;"/>
+  <img src="ir-satellite.gif" width="40%"/>
   <p style="font-size: 14px;"><em>Source: Just In Weather</em></p>
 </div>
 
@@ -246,8 +247,8 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 - Yellow, orange, and red = dry air
 
 <div style="text-align: center;">
-  <img src="wv-satellite.gif" style="width:45%;"/>
-  <p style="font-size: 14px;"><em>Source: Just In Weather</em></p>
+  <img src="wv-satellite.gif" width="45%"/>
+  <p style="font-size: 10px;"><em>Source: Just In Weather</em></p>
 </div>
 
 ---
@@ -291,9 +292,9 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 
 ---
 
-## Example: Burlington, VT
+## Example: Grey, ME
 <div style="text-align: center;">
-  <img src="dartmouth-figs/btv-sounding.png" style="width:55%;"/>
+  <img src="dartmouth-figs/gyx-sounding.png" width="50%"/>
   <p style="font-size: 14px;"><em>Source: University of Wyoming</em></p>
 </div>
 
@@ -330,7 +331,7 @@ Data from soundings ➡️ upper-air maps on pressure levels to show us the flow
 ## Station symbols
 - Surface observations are plotted on a map using station symbols
 <div style="text-align: center;">
-  <img src="station-model.gif" style="width:60%;"/>
+  <img src="station-model.gif" width="60%"/>
   <p style="font-size: 14px;"><em>Source: NOAA WPC</em></p>
 </div>
 
@@ -345,16 +346,16 @@ Data from soundings ➡️ upper-air maps on pressure levels to show us the flow
 ## Surface map analyses - Fronts and symbols
 
 <div style="text-align: center;">
-  <img src="front-symbols.png" style="width:70%;"/>
+  <img src="front-symbols.png" width="70%"/>
   <p style="font-size: 14px;"><em>Source: Aviation Weather</em></p>
 </div>
 
 ---
 
-## Nor'easter Example
+## Nor'easter Example: January 2024
 
 <div style="text-align: center;">
-  <img src="dartmouth-figs/noreaster-surface-analysis.jpg" style="width:60%;"/>
+  <img src="dartmouth-figs/noreaster-surface-analysis.gif" width="60%"/>
   <p style="font-size: 14px;"><em>Source: NOAA WPC</em></p>
 </div>
 
@@ -424,7 +425,7 @@ Data from soundings ➡️ upper-air maps on pressure levels to show us the flow
 ---
 
 ## Using model output
-- U.S. weather models available for free (may not last long in current administration 😅)
+- U.S. weather models available for free
 - Advanced tools sometimes behind paywall
   - Create soundings, take cross-sections, apply fancy algorithms
 - **Do not put all your eggs in one forecast model basket!**
