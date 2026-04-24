@@ -107,7 +107,7 @@ April 28<sup>th</sup>, 2026
 ## Forecasting basics
 The modern challenge: **so much data**. How do we make sense of it all?
 
-<img src="forecast-diagram.jpg" width=45%>
+<img src="dartmouth-figs/forecast-diagram.jpg" width=45%>
 
 ---
 
@@ -139,7 +139,7 @@ The modern challenge: **so much data**. How do we make sense of it all?
 ---
 
 <div style="text-align: center;">
-  <img src="doppler_ani.gif" width="90%"/>
+  <img src="dartmouth-figs/doppler_ani.gif" width="90%"/>
   <p style="font-size: 14px;">Source: NOAA</p>
 </div>
 
@@ -158,7 +158,7 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 ---
 
 <div style="text-align: center;">
-  <img src="radar-elevation-angle.png" width="90%"/>
+  <img src="dartmouth-figs/radar-elevation-angle.png" width="90%"/>
   <p style="font-size: 14px;"><em>Source: NOAA</em></p>
 </div>
 
@@ -191,12 +191,12 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 ---
 
 <div style="text-align: center;">
-  <img src="satellite-paths.jpg" width="45%"/>
+  <img src="dartmouth-figs/satellite-paths.jpg" width="45%"/>
   <p style="font-size: 14px;"><em>Source: ThoughtCo</em></p>
 </div>
 
 <div style="text-align: center;">
-  <img src="geosynchronous-orbit.gif" width="30%"/>
+  <img src="dartmouth-figs/geosynchronous-orbit.gif" width="30%"/>
   <p style="font-size: 14px;"><em>Source: Wikimedia Commons</em></p>
 </div>
 
@@ -220,7 +220,7 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 
 ---
 
-![bg left:50%](visible-satellite.gif)
+![bg left:50%](dartmouth-figs/visible-satellite.gif)
 
 ## Visible imagery
 **Light colors**: thick clouds, snow
@@ -235,7 +235,7 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 - Warmer temps = lower clouds = blue/green
 
 <div style="text-align: center;">
-  <img src="ir-satellite.gif" width="40%"/>
+  <img src="dartmouth-figs/ir-satellite.gif" width="40%"/>
   <p style="font-size: 14px;"><em>Source: Just In Weather</em></p>
 </div>
 
@@ -247,7 +247,7 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 - Yellow, orange, and red = dry air
 
 <div style="text-align: center;">
-  <img src="wv-satellite.gif" width="45%"/>
+  <img src="dartmouth-figs/wv-satellite.gif" width="45%"/>
   <p style="font-size: 10px;"><em>Source: Just In Weather</em></p>
 </div>
 
@@ -331,13 +331,13 @@ Data from soundings ➡️ upper-air maps on pressure levels to show us the flow
 ## Station symbols
 - Surface observations are plotted on a map using station symbols
 <div style="text-align: center;">
-  <img src="station-model.gif" width="60%"/>
+  <img src="dartmouth-figs/station-model.gif" width="60%"/>
   <p style="font-size: 14px;"><em>Source: NOAA WPC</em></p>
 </div>
 
 ---
 
-![bg right](weather-symbols.gif)
+![bg right](dartmouth-figs/weather-symbols.gif)
 
 ## Many types of weather symbols
 
@@ -346,7 +346,7 @@ Data from soundings ➡️ upper-air maps on pressure levels to show us the flow
 ## Surface map analyses - Fronts and symbols
 
 <div style="text-align: center;">
-  <img src="front-symbols.png" width="70%"/>
+  <img src="dartmouth-figs/front-symbols.png" width="70%"/>
   <p style="font-size: 14px;"><em>Source: Aviation Weather</em></p>
 </div>
 
