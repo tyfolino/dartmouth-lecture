@@ -38,8 +38,8 @@ April 28<sup>th</sup>, 2026
 - Vermont was hit even harder — record river flooding cut off entire towns
 
 <div style="text-align: center;">
-  <img src="dartmouth-figs/willowbrook-irene.jpg" width="70%"/>
-  <p style="font-size: 18px;">Willowbrook Mall, August 2011</p>
+  <img src="dartmouth-figs/willowbrook-irene.jpg" width="50%"/>
+  <small><small>Willowbrook Mall, August 2011</small></small>
 </div>
 
 ---
@@ -55,52 +55,32 @@ April 28<sup>th</sup>, 2026
 
 ---
 
-## Academic Journey: Undergrad
+## Academic Journey: Undergrad → Grad School
 - B.S. in **meteorology** and **marine science** at Rutgers (2017)
-- Started as an undergraduate research assistant with a professor
-  - Collaborated with NOAA lab in Princeton
-  - Studied snowfall changes with increasing CO<sub>2</sub>
-- Meteorology ➡️ Climate Science? 🤔
+  - Undergraduate research with NOAA lab in Princeton — snowfall changes with increasing CO<sub>2</sub>
+- Ph.D. in Earth \& Environmental Sciences, Columbia University (2024)
+  - Studied **polar amplification** and its connections to extreme weather
 
 ---
 
-## Academic Journey: Graduate School
-
-- Enjoyed doing research, so Ph.D. was next step
-- Received my Ph.D. in Earth \& Environmental Sciences from Columbia University in 2024
-- Studied **polar amplification** and its connections to extreme weather
-- Graduate school is definitely **not for everyone**, but I had a great experience
-
----
-
-## Now: Rutgers University
-
-- Completed my postdoc at CUNY City College of New York and NOAA NSSL
-  - Studied **extreme rainfall** from Hurricane Ida (2021) in NYC — NYC got **\> 4" of rain in an hour**!
-- Now at **Rutgers**, researching **New Jersey's power grid resilience** to extreme weather
-  - How do extreme events — floods, heat waves, ice storms — stress the power system?
-
----
-
-### Previous Research: Hurricane Ida
-
-<img src="dartmouth-figs/Fig1-mrms-rainfall.png" width=80%>
+## Now: Postdocs & Current Research
+- Postdoc at CUNY City College of New York / NOAA NSSL
+  - Studied **extreme rainfall** from Hurricane Ida (2021) — NYC got **\> 4" of rain in an hour**!
+- Now at **Rutgers**: New Jersey's **power grid resilience** to extreme weather
+  - How do floods, heat waves, and ice storms stress the power system?
 
 ---
 
 ## Fact: Forecasting is Important
+
+![bg right:40%](dartmouth-figs/galveston-hurricane.jpg)
+
 - We take weather forecasts for granted
 - Consider the state of affairs *before* we had weather forecast access 24/7 on our phones
 - Example: Galveston Hurricane of 1900
   - **Deadliest natural disaster in US History**
   - 6,000 - 12,000 fatalities
   - Forecast that day: "Rain Saturday, with high northerly winds; Sunday rain, followed by clearing."
-
----
-
-## Galveston Hurricane Aftermath
-
-<img src="dartmouth-figs/galveston-hurricane.jpg" width=80%>
 
 ---
 
@@ -140,7 +120,7 @@ The modern challenge: **so much data**. How do we make sense of it all?
 
 <div style="text-align: center;">
   <img src="dartmouth-figs/doppler_ani.gif" width="90%"/>
-  <p style="font-size: 14px;">Source: NOAA</p>
+  <small><small>Source: NOAA</small></small>
 </div>
 
 Keep in mind: the radar is rotating at different angles to sample the whole sky!
@@ -159,7 +139,7 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 
 <div style="text-align: center;">
   <img src="dartmouth-figs/radar-elevation-angle.png" width="90%"/>
-  <p style="font-size: 14px;"><em>Source: NOAA</em></p>
+  <small><small><em>Source: NOAA</em></small></small>
 </div>
 
 ---
@@ -176,6 +156,7 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 
 - [NOAA NWS Radar](https://radar.weather.gov) (official site)
 - [MRMS](https://mrms.nssl.noaa.gov/qvs/product_viewer/) (radar data archive \& advanced products)
+- [Iowa State IEM](https://mesonet.agron.iastate.edu/radar/) (**archived radar**, surface obs \& soundings — great for past events)
 - [College of DuPage](https://weather.cod.edu/satrad/) (satellite + radar together)
 - [NWS Burlington](https://www.weather.gov/btv/) (great for northern New England)
 - RadarScope app is excellent but unfortunately not free
@@ -192,12 +173,12 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 
 <div style="text-align: center;">
   <img src="dartmouth-figs/satellite-paths.jpg" width="45%"/>
-  <p style="font-size: 14px;"><em>Source: ThoughtCo</em></p>
+  <small><small><em>Source: ThoughtCo</em></small></small>
 </div>
 
 <div style="text-align: center;">
   <img src="dartmouth-figs/geosynchronous-orbit.gif" width="30%"/>
-  <p style="font-size: 14px;"><em>Source: Wikimedia Commons</em></p>
+  <small><small><em>Source: Wikimedia Commons</em></small></small>
 </div>
 
 ---
@@ -236,7 +217,7 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 
 <div style="text-align: center;">
   <img src="dartmouth-figs/ir-satellite.gif" width="40%"/>
-  <p style="font-size: 14px;"><em>Source: Just In Weather</em></p>
+  <small><small><em>Source: Just In Weather</em></small></small>
 </div>
 
 ---
@@ -248,7 +229,7 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 
 <div style="text-align: center;">
   <img src="dartmouth-figs/wv-satellite.gif" width="45%"/>
-  <p style="font-size: 10px;"><em>Source: Just In Weather</em></p>
+  <small><small><em>Source: Just In Weather</em></small></small>
 </div>
 
 ---
@@ -261,22 +242,11 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 
 ---
 
-## Upper air observations basics
+## Upper air observations
 - Measurements taken directly from the atmosphere
-- Essential for understanding vertical structure of atmosphere and predicting weather
-- Collected via:
-    - Weather balloons (radiosondes)
-    - Aircraft
-
----
-
-## Weather balloons and radiosondes
-- Weather balloons carry radiosondes into the atmosphere
-- Radiosondes measure:
-    - Temperature
-    - Humidity
-    - Pressure
-    - Wind speed and direction
+- Essential for understanding the vertical structure of the atmosphere and predicting weather
+- Collected via weather balloons (radiosondes) and aircraft
+- Radiosondes measure temperature, humidity, pressure, and wind speed/direction
 - Data is sent back to the ground via radio
 
 ---
@@ -295,7 +265,7 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 ## Example: Grey, ME
 <div style="text-align: center;">
   <img src="dartmouth-figs/gyx-sounding.png" width="50%"/>
-  <p style="font-size: 14px;"><em>Source: University of Wyoming</em></p>
+  <small><small><em>Source: University of Wyoming</em></small></small>
 </div>
 
 ---
@@ -329,17 +299,14 @@ Data from soundings ➡️ upper-air maps on pressure levels to show us the flow
 ---
 
 ## Station symbols
+
 - Surface observations are plotted on a map using station symbols
+
 <div style="text-align: center;">
-  <img src="dartmouth-figs/station-model.gif" width="60%"/>
-  <p style="font-size: 14px;"><em>Source: NOAA WPC</em></p>
+  <img src="dartmouth-figs/station-model.gif" width="38%"/>
+  <img src="dartmouth-figs/weather-symbols.gif" width="48%"/>
 </div>
-
----
-
-![bg right](dartmouth-figs/weather-symbols.gif)
-
-## Many types of weather symbols
+<div style="text-align: center;"><small><small><em>Source: NOAA WPC</em></small></small></div>
 
 ---
 
@@ -347,7 +314,7 @@ Data from soundings ➡️ upper-air maps on pressure levels to show us the flow
 
 <div style="text-align: center;">
   <img src="dartmouth-figs/front-symbols.png" width="70%"/>
-  <p style="font-size: 14px;"><em>Source: Aviation Weather</em></p>
+  <small><small><em>Source: Aviation Weather</em></small></small>
 </div>
 
 ---
@@ -356,7 +323,7 @@ Data from soundings ➡️ upper-air maps on pressure levels to show us the flow
 
 <div style="text-align: center;">
   <img src="dartmouth-figs/noreaster-surface-analysis.gif" width="60%"/>
-  <p style="font-size: 14px;"><em>Source: NOAA WPC</em></p>
+  <small><small><em>Source: NOAA WPC</em></small></small>
 </div>
 
 ---
@@ -385,17 +352,14 @@ Data from soundings ➡️ upper-air maps on pressure levels to show us the flow
 
 ---
 
-## Global models
- - Cover the entire globe, run every 6-12 hours
- - Produce forecasts out to 16 days
- - Examples: GFS (Global Forecast System), ECMWF (European Centre for Medium-Range Weather Forecasts)
+## Global vs. Regional Models
 
----
-
-## Regional Models
-- Cover smaller areas, run more frequently, higher resolution
-- Produce forecasts out to 3-5 days
-- Examples: NAM (North American Mesoscale), HRRR (High-Resolution Rapid Refresh), WoFS (Warn-on-Forecast System)
+| | **Global** | **Regional** |
+|---|---|---|
+| **Coverage** | Entire globe | Smaller areas |
+| **Frequency** | Every 6–12 hours | More frequent |
+| **Forecast range** | Up to 16 days | 3–5 days |
+| **Examples** | GFS, ECMWF | NAM, HRRR, WoFS |
 
 ---
 
@@ -461,6 +425,8 @@ Data from soundings ➡️ upper-air maps on pressure levels to show us the flow
 ---
 
 ### My approach for New England forecasting
+<small>
+
 1. Look at global/CONUS satellite imagery.
 2. Check out jet stream with upper air maps.
 3. Start looking at synoptic features with radar, surface analyses, and surface observations.
@@ -469,6 +435,8 @@ Data from soundings ➡️ upper-air maps on pressure levels to show us the flow
 6. Consult appropriate forecast models.
 7. Make forecast narrative for time period of interest.
 8. **Verify your forecast!**
+
+</small>
 
 ---
 
