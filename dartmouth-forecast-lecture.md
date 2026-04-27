@@ -12,7 +12,7 @@ paginate: true
 # How to Become a Forecaster in an Hour ☁️🌡️
 By: Ty Janoski, Ph.D.
 Rutgers University
-April 28<sup>th</sup>, 2026
+April 27<sup>th</sup>, 2026
 
 ---
 
@@ -445,6 +445,7 @@ Data from soundings ➡️ upper-air maps on pressure levels to show us the flow
 - [NOAA Weather Prediction Center](https://www.wpc.ncep.noaa.gov/)
 - [NWS Forecast Points](https://www.weather.gov/forecastpoints)
 - [Ventusky](https://www.ventusky.com/)
+- [Pivotal Weather](https://www.pivotalweather.com)
 
 ---
 
@@ -453,7 +454,7 @@ Data from soundings ➡️ upper-air maps on pressure levels to show us the flow
   - Don't fall for data overload. Stick with the basics.
 - Satellite, radar, upper air, and surface observations are all useful tools that give us different information.
 - Forecast models are our most powerful tools but need to be used judiciously.
-- Practice as much as you can, but keep it fun 😄.
+- Practice as much as you can, but keep it fun.
 
 ---
 
