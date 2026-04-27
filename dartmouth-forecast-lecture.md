@@ -37,9 +37,9 @@ April 28<sup>th</sup>, 2026
 - Record-breaking Passaic river flooding
 - Vermont was hit even harder — record river flooding cut off entire towns
 
-<div style="text-align: center;">
+<div style="text-align: center; width: 100%;">
   <img src="dartmouth-figs/willowbrook-irene.jpg" width="50%"/>
-  <small><small>Willowbrook Mall, August 2011</small></small>
+  <div><small><small>Willowbrook Mall, August 2011</small></small></div>
 </div>
 
 ---
@@ -118,9 +118,9 @@ The modern challenge: **so much data**. How do we make sense of it all?
 
 ---
 
-<div style="text-align: center;">
+<div style="text-align: center; width: 100%;">
   <img src="dartmouth-figs/doppler_ani.gif" width="90%"/>
-  <small><small>Source: NOAA</small></small>
+  <div><small><small>Source: NOAA</small></small></div>
 </div>
 
 Keep in mind: the radar is rotating at different angles to sample the whole sky!
@@ -137,9 +137,9 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 
 ---
 
-<div style="text-align: center;">
+<div style="text-align: center; width: 100%;">
   <img src="dartmouth-figs/radar-elevation-angle.png" width="90%"/>
-  <small><small><em>Source: NOAA</em></small></small>
+  <div><small><small><em>Source: NOAA</em></small></small></div>
 </div>
 
 ---
@@ -171,14 +171,14 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 
 ---
 
-<div style="text-align: center;">
+<div style="text-align: center; width: 100%;">
   <img src="dartmouth-figs/satellite-paths.jpg" width="45%"/>
-  <small><small><em>Source: ThoughtCo</em></small></small>
+  <div><small><small><em>Source: ThoughtCo</em></small></small></div>
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: center; width: 100%;">
   <img src="dartmouth-figs/geosynchronous-orbit.gif" width="30%"/>
-  <small><small><em>Source: Wikimedia Commons</em></small></small>
+  <div><small><small><em>Source: Wikimedia Commons</em></small></small></div>
 </div>
 
 ---
@@ -215,9 +215,9 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 - Colder temps = higher clouds = red/white
 - Warmer temps = lower clouds = blue/green
 
-<div style="text-align: center;">
+<div style="text-align: center; width: 100%;">
   <img src="dartmouth-figs/ir-satellite.gif" width="40%"/>
-  <small><small><em>Source: Just In Weather</em></small></small>
+  <div><small><small><em>Source: Just In Weather</em></small></small></div>
 </div>
 
 ---
@@ -227,9 +227,9 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 - White, blue, and green = moist air
 - Yellow, orange, and red = dry air
 
-<div style="text-align: center;">
+<div style="text-align: center; width: 100%;">
   <img src="dartmouth-figs/wv-satellite.gif" width="45%"/>
-  <small><small><em>Source: Just In Weather</em></small></small>
+  <div><small><small><em>Source: Just In Weather</em></small></small></div>
 </div>
 
 ---
@@ -263,9 +263,9 @@ Keep in mind: the radar is rotating at different angles to sample the whole sky!
 ---
 
 ## Example: Grey, ME
-<div style="text-align: center;">
+<div style="text-align: center; width: 100%;">
   <img src="dartmouth-figs/gyx-sounding.png" width="50%"/>
-  <small><small><em>Source: University of Wyoming</em></small></small>
+  <div><small><small><em>Source: University of Wyoming</em></small></small></div>
 </div>
 
 ---
@@ -302,29 +302,29 @@ Data from soundings ➡️ upper-air maps on pressure levels to show us the flow
 
 - Surface observations are plotted on a map using station symbols
 
-<div style="text-align: center;">
-  <img src="dartmouth-figs/station-model.gif" width="38%"/>
-  <img src="dartmouth-figs/weather-symbols.gif" width="48%"/>
+<div style="text-align: center; width: 100%;">
+  <img src="dartmouth-figs/station-model.gif" height="300" style="vertical-align: top;"/>
+  <img src="dartmouth-figs/weather-symbols.gif" height="300" style="vertical-align: top;"/>
 </div>
-<div style="text-align: center;"><small><small><em>Source: NOAA WPC</em></small></small></div>
+<div style="text-align: center; width: 100%;"><small><small><em>Source: NOAA WPC</em></small></small></div>
 
 ---
 
 ## Surface map analyses - Fronts and symbols
 
-<div style="text-align: center;">
+<div style="text-align: center; width: 100%;">
   <img src="dartmouth-figs/front-symbols.png" width="70%"/>
-  <small><small><em>Source: Aviation Weather</em></small></small>
+  <div><small><small><em>Source: Aviation Weather</em></small></small></div>
 </div>
 
 ---
 
-## Nor'easter Example: January 2024
+## <small>Nor'easter Example: January 2026 </small>
 
-<div style="text-align: center;">
+<div style="text-align: center; width: 100%;">
   <img src="dartmouth-figs/noreaster-surface-analysis.gif" width="60%"/>
-  <small><small><em>Source: NOAA WPC</em></small></small>
-</div>
+  <div><small><small><em>Source: NOAA WPC</em></small></small></div>
+</div> 
 
 ---
 
