@@ -4,7 +4,7 @@ theme: cybertopia
 class: invert
 html: true
 
-footer: 'Guest Lecture, Dartmouth College, April 28th, 2026'
+footer: 'Guest Lecture, Dartmouth College, April 27th, 2026'
 paginate: true
 
 ---
